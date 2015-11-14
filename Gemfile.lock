@@ -80,7 +80,6 @@ GEM
       mini_portile (~> 0.6.0)
     pg (0.17.1)
     rack (1.6.0)
->>>>>>> f2bb98e25e2c1cf2c1df9197be28e374a993a504
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.0)
